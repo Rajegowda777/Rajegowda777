@@ -20,11 +20,8 @@
 
 <p align="left">  
 <a href="https://github.com/Rajegowda777/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=springboot&animation=spin&svgfill=15d8fe">  
  </a>
-   <a href="https://github.com/Rajegowda777/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
   <a href="https://github.com/Rajegowda777/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
 </a>
