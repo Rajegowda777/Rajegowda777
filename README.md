@@ -20,7 +20,7 @@
 
 <p align="left">  
 <a href="https://github.com/Rajegowda777/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring-boot&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Spring-Boot&animation=spin&svgfill=15d8fe">  
  </a>
   <a href="https://github.com/Rajegowda777/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=8ed5fa">
