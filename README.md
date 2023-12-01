@@ -20,13 +20,13 @@
 
 <p align="left">  
 <a href="https://github.com/Rajegowda777/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=springboot&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring-boot&animation=spin&svgfill=15d8fe">  
  </a>
   <a href="https://github.com/Rajegowda777/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=8ed5fa">
 </a>
  <a href="https://github.com/Rajegowda777n/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=core-java&svgfill=659b60">
 </a>
 <a href="https://github.com/Rajegowda777/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
