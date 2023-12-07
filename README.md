@@ -27,18 +27,17 @@ _
 <h3 align="center" > 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![java](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![java](https://img.shields.io/badge/-java-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
  - 🌐 &nbsp;
-   ![Spring-Mvc](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+   ![Spring-Mvc](https://img.shields.io/badge/-Spring-mvc-333333?style=flat&logo=spring-boot)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Eclipse](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-  ![Intelij Idea](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-eclipse%20Studio%20Code-333333?style=flat&logo=eclipse&logoColor=007ACC)  
+  ![Intelij Idea](https://img.shields.io/badge/-%20intelij%20idea-333333?style=flat&logo=intelij -idea&logoColor=007ACC)
 <br/>
 
 
