@@ -25,7 +25,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
+
 
 <br/>
 
