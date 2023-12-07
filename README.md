@@ -12,20 +12,18 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-333333?style=flat&logo=spring&logoColor=6DB33F)
+ ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api&logoColor=2C2255)
+ [![Swagger API Documentation](https://img.shields.io/badge/-Swagger%20API%20Documentation-333333?style=flat&logo=swagger)](https://your-swagger-docs-url)
+ [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://your-docker-docs-url)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  - ⚙️ &nbsp;
+- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
+ ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 
 
 <br/>
