@@ -4,30 +4,16 @@
 <br>
 <p align=center>
 <a href="https://www.linkedin.com/in/raje-gowda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rajegowda" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rajegowda" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rajegowda" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://www.codechef.com/users/professor_samm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="sammed-sankonatti" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/professor.sam" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="sammed-sankonatti" height="27" width="" /></a>&nbsp;&nbsp;&nbsp; -->
-</p> -->
-
-_
-
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajegowda777&label=Profile%20visits&color=0e75b6&style=flat-square" alt="Rajegowda" width="120" /> </p>
-
- <!--
-_
-
 
 <div align="center">
 -INTRO HERE- 
  </div>
--->
-_
-
 <h3 align="center" > 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
