@@ -7,9 +7,6 @@
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajegowda777&label=Profile%20visits&color=0e75b6&style=flat-square" alt="Rajegowda" width="120" /> </p>
 
-<div align="center">
--INTRO HERE- 
- </div>
 <h3 align="center" > 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
