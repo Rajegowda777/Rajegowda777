@@ -12,7 +12,7 @@
 
 _
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajegowda&label=Profile%20visits&color=0e75b6&style=flat-square" alt="Rajegowda" width="120" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajegowda777&label=Profile%20visits&color=0e75b6&style=flat-square" alt="Rajegowda777" width="120" /> </p>
 
  <!--
 _
